@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(0, 200, 255);
+    height: auto;
+    padding-top: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 70%;
+    margin: auto;
+    background-color:orange;
+    height: 40px;
+}
+.logo{
+   width: 20%;
+}
+.nav{
+    width: 40%;
+    text-align: center;
+} 
+.login{
+    width: 20%;
+    text-align: end;
+}
+.container-blu{
+    background-color: blue;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0px 0px 0px;
+}
+.container-viola{
+    background-color:purple;
+    height: 400px;
+    width: 50%;
+}
+.cubo-rosa{
+    background-color: pink;
+    height: 400px;
+    width: 40%;
+}
+.cubo-blu{
+    background-color: blue;
+    height: 400px;
+    width: 60%;
+}
+.cubi{
+    display: flex;
+    padding-top: 50px;
+    width: 70%;
+    margin: auto;
+}
+.sfondo-grigio{
+    display: flex;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    background-color: gray;
+    width: 100%;
+}
+.cubo-verde{
+    background-color: green;
+    height: 600px;
+    width: 100%;
+}
+.sfondo-nero{
+    background-color: rgb(49, 49, 49);
+}
+.cubo-rosso{
+    background-color: red;
+    height: 300px;
+    width: 40%;
+    margin-bottom: 50px;
+}
+.col{
+    border: 1px solid #ffffff;
+    height: 300px;
+    width: 25%;
+}
+.cubo-verde-chiaro{
+    background-color: green;
+    display: flex;
+    height: 300px;
+    width: 60%;
+}
+.sfondo-verde-acqua{
+   background-color: aquamarine; 
+   width: 70%;
+   margin: auto;
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-end;
+   padding: 8px 0px 8px 0px;
+
+}
+footer.sfondo-nero{
+    margin-top: 2px;
+    align-items: flex-end;
+    display: flex;
+    height: 50px;
+    padding-top: 30px;
+}
